@@ -1,0 +1,17 @@
+body {
+	background: #555; /* Цвет фона */
+	color: #fff; /* Цвет текста */
+}
+
+.button {
+	background: #999; /* Цвет фона */
+	color: #fff; /* Цвет текста */
+	border-bottom: 1px; /* Внизу */
+	border-top: 1px; /* Вверху */
+	border-left: 1px; /* Слева */
+	border-right: 1px; /* Справо */
+}
+
+.current {
+	color: red;
+}
